@@ -5,7 +5,7 @@ st.set_page_config(
     page_icon="👋",
     layout="wide"
 )
-st.image('images/jet-pump.jpg')
+#st.image('images/jet-pump.jpg')
 
 st.markdown("""
 <h1>🛠️ Jet Pump Performance Calculator</h1>
@@ -38,4 +38,5 @@ st.markdown("""
 
 <p>This calculator is built for engineers, operators, and analysts seeking fast, reliable insights into jet pump behavior and well performance. Enter your well and fluid data to begin optimizing your artificial lift strategy.</p>
 """, unsafe_allow_html=True)
+
 
